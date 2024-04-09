@@ -2,6 +2,8 @@
 
 This repository contains all documents handed in for my computer vision assignment for my masters course in AI.
 
+The main goal of the assignment was to train and evaluate different models on the MNIST dataset. Then use the best performing model to recognise digits from challenging images (and a video) which required general segmentation techniques to be used before a model was used to recognise the segmented digits
+
 This repo contains 4 main files and 4 models. The models are a SVM (support vector machine), KNN (K-Nearest Neighbour), CNN (Convolutional Neural Network) and DNN (Deep Neural Network) all trained on the MNIST dataset.
 
 ## Files
