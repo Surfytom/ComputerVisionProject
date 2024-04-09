@@ -6,8 +6,6 @@ This repo contains 4 main files and 4 models. The models are a SVM (support vect
 
 ## Files
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
-
 ### [ModelEvaluation.ipynb](https://github.com/Surfytom/ComputerVisionProject/blob/main/ModelEvaluation.ipynb)
 
 This file contains all the evalutions for comparing the 4 models. 
